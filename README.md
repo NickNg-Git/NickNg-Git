@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickNg-Git
-- 👀 I’m interested in Cloud services, web dev and cybersecurity
+- 👀 I’m interested in Cloud services, web dev and blockchain 
 - 🌱 I’m currently learning Google Professional Cloud Architect
 - 📫 How to reach me 
   - email: wmng13@gmail.com
